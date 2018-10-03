@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=nimbus
+IAge=3
+Name=Nimbus
+Description=A minimal plugin 
+Authors=Micah Carrick
+Copyright=Copyright © 2011 Micah Carrick
+Website=http://www.micahcarrick.com
+Version=3.0.0
